@@ -1,4 +1,11 @@
-import SwiftUI
+<h1>HW2</h1>
+
+
+
+```swift
+
+
+    import SwiftUI
 
 struct ContentView: View {
     @State private var playerChoice = ""
@@ -74,4 +81,4 @@ struct ContentView: View {
 }
 
 
-
+```
