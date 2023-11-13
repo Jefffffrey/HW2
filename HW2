@@ -1,7 +1,6 @@
 <h1>HW2</h1>
 
 
-
 ```swift
 
 
@@ -79,6 +78,5 @@ struct ContentView: View {
         }
     }
 }
-
 
 ```
